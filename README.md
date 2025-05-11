@@ -1,23 +1,7 @@
-> [!NOTE]
-> Useful information that users should know, even when skimming content.
-
-> [!TIP]
-> Helpful advice for doing things better or more easily.
-
-> [!IMPORTANT]
-> Key information users need to know to achieve their goal.
-
-> [!WARNING]
-> Urgent info that needs immediate user attention to avoid problems.
-
-> [!CAUTION]
-> Advises about risks or negative outcomes of certain actions.
-
-
 
 # Madhav_Store_Business-_PowerBI_Project
 
- # Objective:
+ # [Objective:]
     The owner of Madhav Store, an online retail business, seeks to develop a comprehensive sales analytics dashboard to monitor,
     track, and analyze online sales performance across India. The goal is to gain actionable insights into sales trends, product 
     performance, customer behavior, and regional demand to support data-driven decision-making and drive business growth.
@@ -42,7 +26,7 @@
 The dataset used in this article is “E-commerce data” which is online store data. To analyse we have 2 tables 
 
 ## Table1:- Details.csv file 
-    Order ID:- Identifies which order this line item belongs to.
+    **Order ID:-** Identifies which order this line item belongs to.
     Amount:- The total sales amount (₹) for this item or transaction line.
     Profit:- Net profit earned from selling the item (Amount - Cost).
     Quantity:- Number of units of the product purchased in this transaction.
