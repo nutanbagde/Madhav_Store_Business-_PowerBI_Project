@@ -45,21 +45,19 @@ The dataset used in this article is “E-commerce data” which is online store 
 Because the data I need is in different formats, the next step is to clean the data to prepare for analysis. 
   
 ### Data Cleaning Steps
-1. Remove Duplicates
+*  Remove Duplicates:
    Check for and eliminate duplicate rows in both Order and Details tables, especially based on Order ID.
-2. Handle Missing Values
+*  Handle Missing Values
    Order Table: Check for missing State, City, or CustomerName.
    Details Table: Ensure no missing values in critical fields like Amount, Profit, Quantity, Category, or PaymentMethod.
    Missing values can be dropped, filled with defaults, or investigated depending on business context.
-3. Correct Data Types
+*  Correct Data Types:-
    Order Date to datetime format.
    Amount, Profit, and Quantity to numeric data types (float or int).
    Ensure Category, Sub-Category, and PaymentMethod are of string type or categorical.
-4. Standardize Text Values
-   Strip whitespaces, fix capitalization, and unify naming (e.g., “credit card” → “Credit Card”).
+*  Standardize Text Values:- Strip whitespaces, fix capitalization, and unify naming (e.g., “credit card” → “Credit Card”).
    Apply to columns like State, City, Category, Sub-Category, and PaymentMethod.
-5. Check Relationships
-   Ensure referential integrity: Every Order ID in Details should exist in Order.
+*  Check Relationships:-  nsure referential integrity: Every Order ID in Details should exist in Order.
   
     
 ## This is My Dashboard.
