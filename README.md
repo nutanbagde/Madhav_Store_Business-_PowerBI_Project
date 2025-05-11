@@ -1,7 +1,7 @@
 
 # Madhav_Store_Business-_PowerBI_Project
 
-  [Objective:]
+  ## Objective:
     The owner of Madhav Store, an online retail business, seeks to develop a comprehensive sales analytics dashboard to monitor,
     track, and analyze online sales performance across India. The goal is to gain actionable insights into sales trends, product 
     performance, customer behavior, and regional demand to support data-driven decision-making and drive business growth.
