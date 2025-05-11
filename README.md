@@ -26,7 +26,7 @@ As Madhav Store expands its online presence across India, the owner requires a c
 The dataset used in this article is “E-commerce data” which is online store data. To analyse we have 2 tables 
 
 ### Table1:- Details.csv file 
-Order ID:- Identifies which order this line item belongs to.
+* Order ID:- Identifies which order this line item belongs to.
 Amount:- The total sales amounts for this item or transaction line.
 Profit:- Net profit earned from selling the item (Amount - Cost).
 Quantity:- Number of units of the product purchased in this transaction.
