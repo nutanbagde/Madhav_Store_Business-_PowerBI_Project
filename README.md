@@ -42,13 +42,31 @@ The dataset used in this article is “E-commerce data” which is online store 
 
 # Data Cleaning & Transformation
     Because the data I need is in different formats, the next step is to clean the data to prepare for analysis. 
-    For this reason, I need to validate and clean the data. for use in various analyses This is my second time working with business data.
+  
+## Data Cleaning Steps
+1. Remove Duplicates
+   Check for and eliminate duplicate rows in both Order and Details tables, especially based on Order ID.
+2. Handle Missing Values
+   Order Table: Check for missing State, City, or CustomerName.
+   Details Table: Ensure no missing values in critical fields like Amount, Profit, Quantity, Category, or PaymentMethod.
+   Missing values can be dropped, filled with defaults, or investigated depending on business context.
+3. Correct Data Types
+   Order Date to datetime format.
+   Amount, Profit, and Quantity to numeric data types (float or int).
+   Ensure Category, Sub-Category, and PaymentMethod are of string type or categorical.
+4. Standardize Text Values
+   Strip whitespaces, fix capitalization, and unify naming (e.g., “credit card” → “Credit Card”).
+   Apply to columns like State, City, Category, Sub-Category, and PaymentMethod.
+5. Check Relationships
+   Ensure referential integrity: Every Order ID in Details should exist in Order.
+  
     
 # This is My Dashboard.
  
 # Analysis Result/Learnings
     •	A user-friendly, visually rich dashboard built using tools like Power BI that provides the store owner with real-time 
-      visibility into sales performance and customer behaviour across India, thereby improving operational efficiency and strategic planning.
+      visibility into sales performance and customer behaviour across India, thereby improving operational efficiency 
+      and strategic planning.
     •	Used complex parameters to drill down in the worksheet and customization using filters and slicers.
     •	Created connections, join new tables, calculated to manipulate data, and enable user-driven parameters for visualization.
     •	Used different types of customized visualisation (bar chart, pie chart, donut chart, line chart, scatter chart,
