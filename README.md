@@ -1,11 +1,11 @@
 # Madhav_Store_Business-_PowerBI_Project
 
-Objective:
+**Objective:**
     The owner of Madhav Store, an online retail business, seeks to develop a comprehensive sales analytics dashboard to monitor, track, and analyze online 
     sales performance across India. The goal is to gain actionable insights into sales trends, product performance, customer behavior, and regional demand
     to support data-driven decision-making and drive business growth.
 
-Business Context:
+**Business Context:**
   As Madhav Store expands its online presence across India, the owner requires a centralized, interactive dashboard to:
     •	Visualize key performance indicators (KPIs) such as total revenue, number of orders, and average order value.
     •	Identify high-performing products and underperforming categories.
@@ -13,7 +13,7 @@ Business Context:
     •	Track sales trends over time to anticipate demand and optimize inventory.
     •	Enable quick and informed business decisions based on real-time or regularly updated data.
 
-Analytical Goals:
+**Analytical Goals:**
     1.	What is the distribution of total sales across different states in India?
     2.	Who are the top 5 customers based on total purchase value?
     3.	Which product categories and sub-categories have the highest total sales?
@@ -21,7 +21,7 @@ Analytical Goals:
     5.	What are the total sales amount, total profit, total quantity sold, and the average order value (AOV)?
     6.	Which product category has the highest number of units sold?
    
-About dataset
+**About dataset**
 The dataset used in this article is “E-commerce data” which is online store data. To analyse we have 2 tables 
 
 Table1:- Details.csv file 
@@ -39,12 +39,12 @@ Table2:- Orders.csv file
     •	State:- State in India where the order was delivered
     •	City:- City in India where the order was delivered
 
-Data Cleaning & Transformation
+**Data Cleaning & Transformation**
     Because the data I need is in different formats, the next step is to clean the data to prepare for analysis. For this reason, I need to validate and 
     clean the data. for use in various analyses This is my second time working with business data.
     This is My Dashboard.
  
-Analysis Result/Learnings
+**Analysis Result/Learnings**
     •	A user-friendly, visually rich dashboard built using tools like Power BI that provides the store owner with real-time visibility into sales
       performance and customer behaviour across India, thereby improving operational efficiency and strategic planning.
     •	Used complex parameters to drill down in the worksheet and customization using filters and slicers.
