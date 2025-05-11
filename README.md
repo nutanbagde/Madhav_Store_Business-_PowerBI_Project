@@ -61,7 +61,7 @@ Because the data I need is in different formats, the next step is to clean the d
   
     
 ## This is My Dashboard.
-![nutanbagde/Madhav_Store_Business-_PowerBI_Project/Madhav_Store_Business-_PowerBI_Project]
+![nutanbagde/Madhav_Store_Business-_PowerBI_Project/Madhav_store_PowerBI.png]
 ## Analysis Result/Learnings
 1. A user-friendly, visually rich dashboard built using tools like Power BI that provides the store owner with real-time visibility
 into sales performance and customer behaviour across India, thereby improving operational efficiency and strategic planning.
