@@ -1,11 +1,11 @@
 # Madhav_Store_Business-_PowerBI_Project
 
-# Objective:
-    The owner of Madhav Store, an online retail business, seeks to develop a comprehensive sales analytics dashboard to monitor, track, and analyze online 
-    sales performance across India. The goal is to gain actionable insights into sales trends, product performance, customer behavior, and regional demand
-    to support data-driven decision-making and drive business growth.
+ Objective:\
+    The owner of Madhav Store, an online retail business, seeks to develop a comprehensive sales analytics dashboard to monitor, track, and analyze online \
+    sales performance across India. The goal is to gain actionable insights into sales trends, product performance, customer behavior, and regional demand\
+    to support data-driven decision-making and drive business growth.\
 
-# Business Context:
+Business Context:
   As Madhav Store expands its online presence across India, the owner requires a centralized, interactive dashboard to:
     -	Visualize key performance indicators (KPIs) such as total revenue, number of orders, and average order value.
     *	Identify high-performing products and underperforming categories.
@@ -13,7 +13,7 @@
     *	Track sales trends over time to anticipate demand and optimize inventory.
     *	Enable quick and informed business decisions based on real-time or regularly updated data.
 
-# Analytical Goals:
+Analytical Goals:
     1.	What is the distribution of total sales across different states in India?
     2.	Who are the top 5 customers based on total purchase value?
     3.	Which product categories and sub-categories have the highest total sales?
@@ -25,9 +25,9 @@
 The dataset used in this article is “E-commerce data” which is online store data. To analyse we have 2 tables 
 
 ## Table1:- Details.csv file 
-    *	**Order ID:-** Identifies which order this line item belongs to.
-    *	**Amount:-** The total sales amount (₹) for this item or transaction line.
-    *	**Profit:-** Net profit earned from selling the item (Amount - Cost).
+    *	Order ID:- Identifies which order this line item belongs to.
+    *	Amount:- The total sales amount (₹) for this item or transaction line.
+    *	Profit:- Net profit earned from selling the item (Amount - Cost).
     *	**Quantity:-** Number of units of the product purchased in this transaction.
     *	**Category:-** Broad classification of the product (e.g., Electronics, Apparel).
     *	**Sub-Category:-** More specific classification under the main category (e.g., Mobiles, T-shirts).
