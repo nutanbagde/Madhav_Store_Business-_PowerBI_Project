@@ -27,19 +27,19 @@ The dataset used in this article is “E-commerce data” which is online store 
 
 ### Table1:- Details.csv file 
 * Order ID:- Identifies which order this line item belongs to.
-Amount:- The total sales amounts for this item or transaction line.
-Profit:- Net profit earned from selling the item (Amount - Cost).
-Quantity:- Number of units of the product purchased in this transaction.
-Category:- Broad classification of the product 
-Sub-Category:- More specific classification under the main category .
-PaymentMethod:- Method used for the transaction (e.g., UPI, Credit Card, Cash on Delivery).
+* Amount:- The total sales amounts for this item or transaction line.
+* Profit:- Net profit earned from selling the item (Amount - Cost).
+* Quantity:- Number of units of the product purchased in this transaction.
+* Category:- Broad classification of the product 
+* Sub-Category:- More specific classification under the main category .
+* PaymentMethod:- Method used for the transaction (e.g., UPI, Credit Card, Cash on Delivery).
     
 ### Table2:- Orders.csv file 
-Order ID:-  Identifies which order this line item belongs to.
-Order Date:- Date when the order was placed
-CustomerName:- Name of the customer
-State:- State in India where the order was delivered
-City:- City in India where the order was delivered
+* Order ID:-  Identifies which order this line item belongs to.
+* Order Date:- Date when the order was placed
+* CustomerName:- Name of the customer
+* State:- State in India where the order was delivered
+* City:- City in India where the order was delivered
 
 ## Data Cleaning & Transformation
 Because the data I need is in different formats, the next step is to clean the data to prepare for analysis. 
