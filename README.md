@@ -1,3 +1,20 @@
+> [!NOTE]
+> Useful information that users should know, even when skimming content.
+
+> [!TIP]
+> Helpful advice for doing things better or more easily.
+
+> [!IMPORTANT]
+> Key information users need to know to achieve their goal.
+
+> [!WARNING]
+> Urgent info that needs immediate user attention to avoid problems.
+
+> [!CAUTION]
+> Advises about risks or negative outcomes of certain actions.
+
+
+
 # Madhav_Store_Business-_PowerBI_Project
 
  # Objective:
@@ -40,14 +57,18 @@ The dataset used in this article is “E-commerce data” which is online store 
     City:- City in India where the order was delivered
 
 # Data Cleaning & Transformation
-    Because the data I need is in different formats, the next step is to clean the data to prepare for analysis. For this reason, I need to validate and 
-    clean the data. for use in various analyses This is my second time working with business data.
-    This is My Dashboard.
+    Because the data I need is in different formats, the next step is to clean the data to prepare for analysis. 
+    For this reason, I need to validate and clean the data. for use in various analyses This is my second time working with business data.
+    
+# This is My Dashboard.
  
 # Analysis Result/Learnings
-    •	A user-friendly, visually rich dashboard built using tools like Power BI that provides the store owner with real-time visibility into sales
-      performance and customer behaviour across India, thereby improving operational efficiency and strategic planning.
+    •	A user-friendly, visually rich dashboard built using tools like Power BI that provides the store owner with real-time 
+      visibility into sales performance and customer behaviour across India, thereby improving operational efficiency and strategic planning.
     •	Used complex parameters to drill down in the worksheet and customization using filters and slicers.
     •	Created connections, join new tables, calculated to manipulate data, and enable user-driven parameters for visualization.
-    •	Used different types of customized visualisation (bar chart, pie chart, donut chart, line chart, scatter chart, clustered bar chart, area chart, map,
-      slicers etc.)
+    •	Used different types of customized visualisation (bar chart, pie chart, donut chart, line chart, scatter chart,
+      clustered bar chart, area chart, map, slicers etc.)
+
+
+
