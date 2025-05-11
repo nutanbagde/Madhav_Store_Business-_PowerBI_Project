@@ -65,11 +65,11 @@ Because the data I need is in different formats, the next step is to clean the d
 ## This is My Dashboard.
  
 ## Analysis Result/Learnings
-• A user-friendly, visually rich dashboard built using tools like Power BI that provides the store owner with real-time visibility
+1. A user-friendly, visually rich dashboard built using tools like Power BI that provides the store owner with real-time visibility
 into sales performance and customer behaviour across India, thereby improving operational efficiency and strategic planning.
-•	Used complex parameters to drill down in the worksheet and customization using filters and slicers.
-•	Created connections, join new tables, calculated to manipulate data, and enable user-driven parameters for visualization.
-•	Used different types of customized visualisation (bar chart, pie chart, donut chart, line chart, scatter chart,
+2.	Used complex parameters to drill down in the worksheet and customization using filters and slicers.
+3.	Created connections, join new tables, calculated to manipulate data, and enable user-driven parameters for visualization.
+4.	Used different types of customized visualisation (bar chart, pie chart, donut chart, line chart, scatter chart,
       clustered bar chart, area chart, map, slicers etc.)
 
 
